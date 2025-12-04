@@ -1,7 +1,7 @@
 # TISC: Ternary Symbol Instruction Set Computer and INS Language Compiler
 
 **Author:** Seung-U Son (Dept. of Computer Science and Engineering, Konkuk University)  
-**Project Date:** 2025-12-04
+**Project Date:** 2025-12-05
 
 ---
 

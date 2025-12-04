@@ -130,14 +130,15 @@ The compiler was verified using a `compliant_hello.ins` program. This program wr
 [TISC] Logical Halt Detected (T[0] == 255). Result:
 Hello World!
 ```
-(Note: $T[0] == 255$ indicates the value 255 interpreted as a signed 8-bit integer).
+**(Note: $T[0] == 255$ indicates the value 255 interpreted as a signed 8-bit integer).**
+
 ---
 ## 7. Conclusion
 This project successfully establishes the theoretical foundation of the minimalist TISC architecture and demonstrates its validity through a working compiler. By implementing mechanisms such as Decrement via Overflow and Logical Halting on Circular Tapes, it bridges abstract computation theory with practical system programming.
 
 ---
 ## 8. References
-**Primary Source**
+**Primary Source - Report**
 - Son, S. (2025). Proposal of TISC (Ternary Symbol Instruction Set Computer) Based Language and Compiler. Dept. of Computer Science and Engineering, Konkuk University.
 
 **Theoretical Foundations**

@@ -1,6 +1,7 @@
 # TISC: Ternary Symbol Instruction Set Computer and INS Language Compiler
 
 **🙏TISC Report.pdf를 참고해주세요.**
+**🙏TISC-INS Visualizer.html을 통해 프로그램 가동 구조를 살펴볼 수 있습니다.**
 
 **Author:** Seung-U Son (Dept. of Computer Science and Engineering, Konkuk University)  
 **Project Date:** 2025-12-05
